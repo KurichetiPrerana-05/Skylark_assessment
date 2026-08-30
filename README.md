@@ -1,4 +1,5 @@
 # Skylark Drones — monday.com BI Agent (prototype)
+PROTOTYPE LINK: https://skylarkassessment-b2720950z-kurichetiprerana-05s-projects.vercel.app/
 
 Conversational agent that answers founder-level BI questions over two live
 monday.com boards (Work Order Tracker, Deal Funnel), using **Groq
